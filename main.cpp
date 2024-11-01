@@ -19,7 +19,7 @@ bool isPalindrome;
 
         if (e.compare(x)) {
             isPalindrome = true;
-            std::cout << "Allahuaktua" << std::endl;
+            std::cout << "No." << std::endl;
         }
         else if (!e.compare(x)) {
             std::cout << "Palindrome" << std::endl;
